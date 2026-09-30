@@ -1,0 +1,51 @@
+body {
+  background-color: rgb(140, 186, 140);
+  padding: 10rem;
+}
+
+.container {
+  justify-content: center;
+  align-items: center; 
+  padding: 20px;
+  border: 5px solid pink;
+  border-radius: 10px;
+  background-color: white;
+  text-align: center;
+  color: rgb(84, 83, 83);
+}
+
+body header {
+  text-align: center;
+  padding-top: 15px;
+  color: rgb(97, 138, 97);
+}
+
+.zoo {
+  object-fit: cover; 
+  border: 10px solid pink; 
+  border-radius: 5px;
+  justify-content: center;
+}
+
+.fave {
+  object-fit: cover; 
+  border: 5px solid pink; 
+  border-radius: 3px;
+  align-items: center;
+  justify-content: center;
+}
+
+ul {
+  padding: 10px;
+  font-size: 20px;
+}
+
+li {
+  color: rgb(214, 159, 168);
+  padding-bottom: 10px;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+strong {
+  color: rgb(214, 159, 168);
+}
